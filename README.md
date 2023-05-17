@@ -13,6 +13,6 @@
 </a>
 
 <a href="http://goxaweb.free.fr/" target="_blank">
- <img width="30" height="30" src=":page_facing_up:" alt="Watch the video" width="240" height="180" border="10" />
+ <img width="30" height="30" src="&#128196;" alt="" width="240" height="180" border="10" />
 </a>
 
