@@ -6,4 +6,4 @@
   
     **https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A**
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
