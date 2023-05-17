@@ -6,7 +6,4 @@
 
 
 
-:lock: connectez vous :key: -->
-  
-  
-<img alt="Connect on Youtube" src="" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" style="max-width: 100%;" width="22px" align="left">
+:lock: connectez vous :key:
