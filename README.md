@@ -6,4 +6,3 @@
   
     **https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rieucartie&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
