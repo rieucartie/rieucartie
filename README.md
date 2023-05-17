@@ -1,3 +1,6 @@
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/buttons" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
+
 ### :trackball: Bonjour à tous les amoureux de la programmation :computer_mouse:
 
 - :computer: Sur ce dépôt Je partage des projets front-end ou back-end développé en php , react ou angular , améliorer ces projets dans le temps m'ont amené à découvrir une multitude de technologies et maintenir continuellement une forte veille technologique
