@@ -6,6 +6,5 @@
 
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
