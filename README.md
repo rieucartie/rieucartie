@@ -6,5 +6,5 @@
   
     **https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A**
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
