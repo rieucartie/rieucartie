@@ -9,5 +9,5 @@
 :lock: connectez vous :key:
 
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
- <img src="https://yt3.googleusercontent.com/ytc/AGIKgqOwixRmimmb3otMq2o9NZoOifEBzZ9cIoICFyAK=s176-c-k-c0x00ffffff-no-rj" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/youtube_black_logo_icon_147044.png" alt="Watch the video" width="240" height="180" border="10" />
 </a>
