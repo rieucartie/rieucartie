@@ -2,9 +2,9 @@
 
 - :computer: Sur ce dépôt Je partage des projets front-end ou back-end développé en php , react ou angular , améliorer ces projets dans le temps m'ont amené à découvrir une multitude de technologies et maintenir continuellement une forte veille technologique
 
-- :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
-
 - :computer: j'utilise aussi GitLab CI pour l'intégration continue de projets Symfony https://gitlab.com/cartuchut
+
+- :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
 
 :lock: connectez vous sur youtube et le site web :key:
