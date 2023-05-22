@@ -4,6 +4,7 @@
 
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
+- :computer: j'utilise aussi GitLab CI pour l'intégration continue de projets Symfony https://gitlab.com/cartuchut
 
 
 :lock: connectez vous sur youtube et le site web :key:
