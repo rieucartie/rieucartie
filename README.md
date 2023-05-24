@@ -38,6 +38,6 @@
 </a>&nbsp; &nbsp;
 
 <a href="http://goxaweb.free.fr/" target="_blank">
- <img width="30" height="30" src="https://publicdomainvectors.org/photos/WWW-Icon-White-on-Grey.png" alt="" width="240" height="180" border="10"/ >
+ <img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/pupsy075/pupsy0752006/pupsy075200600739.jpg" alt="" width="240" height="180" border="10"/ >
 </a>&nbsp; &nbsp;
 
