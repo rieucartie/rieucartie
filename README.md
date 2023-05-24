@@ -26,7 +26,7 @@
 </a>
 
 <a href="#">
- <img width="40" height="30" src="https://www.freepng.fr/png-nbugw4/download.html" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="40" height="30" src="https://img2.freepng.fr/20180622/gxu/kisspng-mysql-database-web-development-computer-icons-mysql-5b2cc2f2df70e6.4579243815296601469152.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
 </a>
 
 
