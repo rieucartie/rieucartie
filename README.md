@@ -34,10 +34,10 @@
 <br>
 
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
- <img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/youtube_black_logo_icon_147044.png" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+ <img width="30" height="30" src="https://st2.depositphotos.com/thumbs/1144386/vector/7771/77712514/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />
+</a>&nbsp; &nbsp;
 
 <a href="http://goxaweb.free.fr/" target="_blank">
  <img width="30" height="30" src="https://publicdomainvectors.org/photos/WWW-Icon-White-on-Grey.png" alt="" width="240" height="180" border="10"/ >
-</a>
+</a>&nbsp; &nbsp;
 
