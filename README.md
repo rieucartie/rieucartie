@@ -14,19 +14,19 @@
  </a>
 
 <a href="#">
- <img width="35" height="30" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="35" height="30" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
  </a>
 
 <a href="#">
- <img width="40" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="40" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
 </a>
 
 <a href="#">
- <img width="40" height="30" src="https://st2.depositphotos.com/thumbs/1796420/vector/5786/57860713/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="40" height="30" src="https://st2.depositphotos.com/thumbs/1796420/vector/5786/57860713/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
 </a>
 
 <a href="#">
- <img width="40" height="30" src="https://img2.freepng.fr/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="40" height="30" src="https://img2.freepng.fr/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
 </a>
 
 
