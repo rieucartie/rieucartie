@@ -9,7 +9,7 @@
 ### Technologie :
 
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
- <img width="60" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10" />
+ <img width="70" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10" />
 </a>&nbsp; 
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
  <img width="30" height="30" src="https://st.depositphotos.com/thumbs/1796420/vector/4113/41138921/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />
