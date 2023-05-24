@@ -8,7 +8,7 @@
 
 ### Technologie  
 <br>
-<div style="margin-right: 30px;">
+
   <a href="#">
   <img width="60" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10"   />&nbsp; &nbsp; 
   </a>
@@ -28,7 +28,8 @@
 <a href="#">
  <img width="40" height="30" src="https://img2.freepng.fr/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
 </a>
-</div>
+
+
 ### :lock: Connectez vous sur youtube et le site web :key:
 <br>
 
