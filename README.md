@@ -10,7 +10,7 @@
 
 
 <a href="#">
- <img width="60" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="60" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10" />&nbsp; &nbsp; 
  </a>
 
 <a href="#">
