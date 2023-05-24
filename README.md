@@ -12,7 +12,7 @@
  <img width="70" height="30" src="https://upload.wikimedia.org/wikipedia/it/0/0e/Symfony.png" alt="Watch the video" width="240" height="180" border="10" />
 </a>&nbsp; 
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
- <img width="70" height="30" src="https://images.assetsdelivery.com/compings_v2/digitalbazaar/digitalbazaar2012/digitalbazaar201201639.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img width="70" height="60" src="https://images.assetsdelivery.com/compings_v2/digitalbazaar/digitalbazaar2012/digitalbazaar201201639.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 
