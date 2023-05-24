@@ -1,4 +1,5 @@
-### :trackball: \_Bonjour à tous les amoureux de la programmation\_ :computer_mouse:
+### :trackball: Bonjour à tous les amoureux de la programmation :computer_mouse:
+=============
 
 - :computer: Sur ce dépôt Je partage des projets front-end ou back-end développé en php , react ou angular , améliorer ces projets dans le temps m'ont amené à découvrir une multitude de technologies et maintenir continuellement une forte veille technologique
 
