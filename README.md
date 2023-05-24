@@ -14,7 +14,7 @@
  </a>
 
 <a href="#">
- <img width="35" height="30" src="https://st2.depositphotos.com/thumbs/1734074/vector/12391/123916348/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
+ <img width="35" height="30" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="Watch the video" width="240" height="180" border="10" />&nbsp; 
  </a>
 
 <a href="#">
