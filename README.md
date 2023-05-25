@@ -51,11 +51,11 @@
 ### 📺 Derniere Videos YouTube 
 
 <!-- YOUTUBE:START -->
-- [projet symfony api-platform et angular](https://youtu.be/07Ov3ykj-3o)
-- [Passage d'une application PHP en Symfony et avec l'api fetch js](https://youtu.be/5Z9LRWOTC14)
-- [symfony mise en place solution e-commerce](https://youtu.be/KceM4ZsoIDA)
-- [CRM avec 3 roles distinct prospection,commerciale,administrateur](https://www.youtube.com/watch?v=A3FpRIGR5cQ)
-- [Restaurant avec réservation](https://youtu.be/WIc624hUUr8)
+- [Symfony backend api-platform et frontend angular](https://youtu.be/07Ov3ykj-3o)
+- [Symfony avec l'api fetch js](https://youtu.be/5Z9LRWOTC14)
+- [Symfony backend et frontend solution e-commerce](https://youtu.be/KceM4ZsoIDA)
+- [Symfony CRM avec 3 roles distinct prospection,commerciale,administrateur](https://www.youtube.com/watch?v=A3FpRIGR5cQ)
+- [Symfony Restaurant avec réservation](https://youtu.be/WIc624hUUr8)
 <!-- YOUTUBE:END -->
 ➡️ [plus de vidéo ...](https://www.youtube.com/@boxiweb9178)
 
