@@ -38,10 +38,6 @@
 ### :lock: Connectez vous sur youtube et le site web  :key: 
 <br>
 
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@boxiweb9178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@boxiweb9178" height="30" width="40" /></a>
-</p>
-
 <a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
  <img width="45" height="30" src="https://st2.depositphotos.com/thumbs/1144386/vector/7771/77712514/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />
 </a>&nbsp; &nbsp;
