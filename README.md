@@ -7,7 +7,7 @@
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
 
-### :tools: Tech Stack
+### 🔧 Tech Stack
 <br>
 
  <a href="#">
