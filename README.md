@@ -35,7 +35,7 @@
        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
+<h3 align="left">Connect with me:</h3>
 ### :lock: Connectez vous sur youtube et le site web :key:
 <br>
 
