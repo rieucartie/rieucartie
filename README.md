@@ -6,6 +6,7 @@
 
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
+![](https://github.com/?username=rieucartie)
 
 ### 🔧 Tech Stack
 <br>
