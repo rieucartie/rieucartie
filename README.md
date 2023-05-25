@@ -7,7 +7,7 @@
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
 
-### :green_book: Tech Stack
+### :tools: Tech Stack
 <br>
 
  <a href="#">
