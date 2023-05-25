@@ -43,9 +43,8 @@
  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Watch the video" width="90" height="30" border="10" />
 </a>&nbsp; &nbsp;
 
-
 <a href="http://goxaweb.free.fr/" target="_blank">
- <img width="30" height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" width="240" height="180" border="10"></img>
+ <img width="90" height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" width="240" height="180" border="10"></img>
 </a>&nbsp; &nbsp;
 
 
