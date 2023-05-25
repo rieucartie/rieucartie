@@ -7,7 +7,7 @@
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
 
-### :green_book: <h3 align="left">Languages and Tools:</h3>
+### :green_book: Tech Stack
 <br>
 
  <a href="#">
