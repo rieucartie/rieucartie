@@ -6,6 +6,8 @@
 
 - :clapper: Je possède aussi une chaine Youtube ou on l'on peut voir ces projets en vidéo
 
+![](https://komarev.com/ghpvc/?username=rieucartie)
+
 ### :green_book: Technologie  
 <br>
 
