@@ -37,14 +37,13 @@
 
 ### :lock: Connectez vous sur youtube et le site web  :key: 
 <br>
-<p style="margin-left:50px;">
-<a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank">
+<a href="https://www.youtube.com/channel/UCFV8c_CzIpVLV5BqbGL_z6A" target="_blank"style="margin-left:50px;">
  <img width="45" height="30" src="https://st2.depositphotos.com/thumbs/1144386/vector/7771/77712514/api_thumb_450.jpg?forcejpeg=true" alt="Watch the video" width="240" height="180" border="10" />
 </a>&nbsp; &nbsp;
 
 <a href="http://goxaweb.free.fr/" target="_blank">
  <img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/pupsy075/pupsy0752006/pupsy075200600739.jpg" alt="" width="240" height="180" border="10"></img>
 </a>&nbsp; &nbsp;
-</p>
+
 
 
